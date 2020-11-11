@@ -53,4 +53,7 @@
 	padding: 15px 0;
 
 }
-#
+#sidebar-container ul li a:hover {
+	background-color: #000;
+	display: block;
+}
