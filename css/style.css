@@ -50,8 +50,7 @@
 #sidebar-container ul li a {
 	text-decoration: none;
 	color: #fff;
-	padding: 15px 0;
-
+	padding: 15px 0px;
 }
 #sidebar-container ul li a:hover {
 	background-color: #000;
